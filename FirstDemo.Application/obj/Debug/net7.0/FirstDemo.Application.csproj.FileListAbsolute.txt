@@ -1,0 +1,15 @@
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Application\bin\Debug\net7.0\FirstDemo.Application.deps.json
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Application\bin\Debug\net7.0\FirstDemo.Application.dll
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Application\bin\Debug\net7.0\FirstDemo.Application.pdb
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Application\bin\Debug\net7.0\FirstDemo.Domain.dll
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Application\bin\Debug\net7.0\FirstDemo.Domain.pdb
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\FirstDemo.Application.csproj.AssemblyReference.cache
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\FirstDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\FirstDemo.Application.AssemblyInfoInputs.cache
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\FirstDemo.Application.AssemblyInfo.cs
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\FirstDemo.Application.csproj.CoreCompileInputs.cache
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\FirstDemo.Application.csproj.CopyComplete
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\FirstDemo.Application.dll
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\refint\FirstDemo.Application.dll
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\FirstDemo.Application.pdb
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\ref\FirstDemo.Application.dll

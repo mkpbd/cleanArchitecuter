@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "r05+lyXyjM4rFpy7j1frBP4eCV4iMxb1pCbJKbyz9VYKSL64yVFOj4N7mtadrVCkv+YF8tkOJiY69rQvEssNog==",
+  "success": true,
+  "projectFilePath": "D:\\All Desktop Items\\Downloads\\Compressed\\aspnet-b8-main_4\\aspnet-b8-main\\src\\FirstDemo\\FirstDemo.Infrastructure\\FirstDemo.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MOSTOFA KAMAL\\.nuget\\packages\\autofac\\7.0.1\\autofac.7.0.1.nupkg.sha512",
+    "C:\\Users\\MOSTOFA KAMAL\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\MOSTOFA KAMAL\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\MOSTOFA KAMAL\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\MOSTOFA KAMAL\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\MOSTOFA KAMAL\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\MOSTOFA KAMAL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\MOSTOFA KAMAL\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

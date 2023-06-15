@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WJvwW2f/bUmjlOK51G1cw8KZJoC9voYfltLnUJ7/xhgjrCoGxDaEz3+DpbsFUiatbi9NmfCaOVuxp0OC9nns7Q==",
+  "success": true,
+  "projectFilePath": "D:\\All Desktop Items\\Downloads\\Compressed\\aspnet-b8-main_4\\aspnet-b8-main\\src\\FirstDemo\\FirstDemo.Application\\FirstDemo.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MOSTOFA KAMAL\\.nuget\\packages\\autofac\\7.0.1\\autofac.7.0.1.nupkg.sha512",
+    "C:\\Users\\MOSTOFA KAMAL\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

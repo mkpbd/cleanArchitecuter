@@ -1,0 +1,17 @@
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Infrastructure\bin\Debug\net7.0\FirstDemo.Infrastructure.deps.json
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Infrastructure\bin\Debug\net7.0\FirstDemo.Infrastructure.dll
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Infrastructure\bin\Debug\net7.0\FirstDemo.Infrastructure.pdb
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Infrastructure\bin\Debug\net7.0\FirstDemo.Application.dll
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Infrastructure\bin\Debug\net7.0\FirstDemo.Domain.dll
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Infrastructure\bin\Debug\net7.0\FirstDemo.Application.pdb
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Infrastructure\bin\Debug\net7.0\FirstDemo.Domain.pdb
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Infrastructure\obj\Debug\net7.0\FirstDemo.Infrastructure.csproj.AssemblyReference.cache
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Infrastructure\obj\Debug\net7.0\FirstDemo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Infrastructure\obj\Debug\net7.0\FirstDemo.Infrastructure.AssemblyInfoInputs.cache
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Infrastructure\obj\Debug\net7.0\FirstDemo.Infrastructure.AssemblyInfo.cs
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Infrastructure\obj\Debug\net7.0\FirstDemo.Infrastructure.csproj.CoreCompileInputs.cache
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Infrastructure\obj\Debug\net7.0\FirstDemo.Infrastructure.csproj.CopyComplete
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Infrastructure\obj\Debug\net7.0\FirstDemo.Infrastructure.dll
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Infrastructure\obj\Debug\net7.0\refint\FirstDemo.Infrastructure.dll
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Infrastructure\obj\Debug\net7.0\FirstDemo.Infrastructure.pdb
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Infrastructure\obj\Debug\net7.0\ref\FirstDemo.Infrastructure.dll

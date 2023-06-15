@@ -1,0 +1,12 @@
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Domain\bin\Debug\net7.0\FirstDemo.Domain.deps.json
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Domain\bin\Debug\net7.0\FirstDemo.Domain.dll
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Domain\bin\Debug\net7.0\FirstDemo.Domain.pdb
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Domain\obj\Debug\net7.0\FirstDemo.Domain.csproj.AssemblyReference.cache
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Domain\obj\Debug\net7.0\FirstDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Domain\obj\Debug\net7.0\FirstDemo.Domain.AssemblyInfoInputs.cache
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Domain\obj\Debug\net7.0\FirstDemo.Domain.AssemblyInfo.cs
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Domain\obj\Debug\net7.0\FirstDemo.Domain.csproj.CoreCompileInputs.cache
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Domain\obj\Debug\net7.0\FirstDemo.Domain.dll
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Domain\obj\Debug\net7.0\refint\FirstDemo.Domain.dll
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Domain\obj\Debug\net7.0\FirstDemo.Domain.pdb
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Domain\obj\Debug\net7.0\ref\FirstDemo.Domain.dll

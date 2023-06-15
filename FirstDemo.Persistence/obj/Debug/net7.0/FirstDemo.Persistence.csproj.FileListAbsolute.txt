@@ -1,0 +1,17 @@
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Persistence\bin\Debug\net7.0\FirstDemo.Persistence.deps.json
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Persistence\bin\Debug\net7.0\FirstDemo.Persistence.dll
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Persistence\bin\Debug\net7.0\FirstDemo.Persistence.pdb
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Persistence\bin\Debug\net7.0\FirstDemo.Application.dll
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Persistence\bin\Debug\net7.0\FirstDemo.Domain.dll
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Persistence\bin\Debug\net7.0\FirstDemo.Application.pdb
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Persistence\bin\Debug\net7.0\FirstDemo.Domain.pdb
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Persistence\obj\Debug\net7.0\FirstDemo.Persistence.csproj.AssemblyReference.cache
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Persistence\obj\Debug\net7.0\FirstDemo.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Persistence\obj\Debug\net7.0\FirstDemo.Persistence.AssemblyInfoInputs.cache
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Persistence\obj\Debug\net7.0\FirstDemo.Persistence.AssemblyInfo.cs
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Persistence\obj\Debug\net7.0\FirstDemo.Persistence.csproj.CoreCompileInputs.cache
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Persistence\obj\Debug\net7.0\FirstDemo.Persistence.csproj.CopyComplete
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Persistence\obj\Debug\net7.0\FirstDemo.Persistence.dll
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Persistence\obj\Debug\net7.0\refint\FirstDemo.Persistence.dll
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Persistence\obj\Debug\net7.0\FirstDemo.Persistence.pdb
+D:\All Desktop Items\Downloads\Compressed\aspnet-b8-main_4\aspnet-b8-main\src\FirstDemo\FirstDemo.Persistence\obj\Debug\net7.0\ref\FirstDemo.Persistence.dll
